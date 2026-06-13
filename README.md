@@ -1,6 +1,6 @@
 # 🌟 Portfolio Website – IncodeVision Internship Task
 
-# 🌐 Aditi Ambhore Portfolio Website
+# 🌐 Aditi Bandupant Ambhore Portfolio Website
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-Frontend-orange?style=for-the-badge&logo=html5">
@@ -11,7 +11,7 @@
 
 ## 👩‍💻 Developed By
 
-### Aditi Ambhore
+### Aditi Bandupant Ambhore
 🎓 B.Tech Computer Science Engineering Student
 
 🏫 GH Raisoni University
@@ -201,5 +201,5 @@ If you like this project, consider giving it a ⭐ on GitHub.
 ---
 
 <p align="center">
-Made with ❤️ by Aditi Ambhore
+Made with ❤️ by Aditi Bandupant Ambhore
 </p>

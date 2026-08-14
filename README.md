@@ -72,15 +72,11 @@ ADITI PORTFOLIO - SEPARATED FILES
 
 Structure:
 Aditi_Portfolio_Separated/
-├── index.html
-├── css/
-│   └── style.css
-├── js/
-│   └── script.js
-├── images/
-│   └── aditi.jpg        <-- put your profile image here
-└── assets/
-    └── Resume1 (1).pdf  <-- put your resume here
+├──  index.html
+├──  style.css
+├──  script.js
+├──  aditi.jpg        
+└──  Resume1 (1).pdf  
 
 The existing HTML content, CSS, JavaScript, and video background have been separated
 without changing the portfolio content.
